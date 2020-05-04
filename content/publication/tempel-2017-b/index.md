@@ -1,0 +1,12 @@
+---
+title: "Estimating Inertial Parameters of Suspended Cable-Driven Parallel Robots: Use Case on CoGiRo"
+date: 2017-01-01
+publishDate: 2020-04-04T06:10:45.031674Z
+authors: ["Philipp Tempel", "Pierre-Elie Hervé", "Olivier Tempier", "Marc Gouttefarde", "Andreas Pott"]
+publication_types: ["1"]
+abstract: "Model based open-loop and closed-loop control systems make use of the system's inertial parameters. Unfortunately, not all of these values can be determined analytically nor can they be obtained from simple measurements. Established experiments for inertial parameters estimation have been applied to serial and parallel rigid-link manipulators, yet in very few cases to cable-driven parallel robots. Due to their kinematic properties and their unique setup, cable robots are more sensitive to incorrect estimates of the inertial parameters making it important to obtain such quantities through experiments. In this work, we assess the topic of inertial parameter identification of a parallel flexible-link manipulator exemplified by the suspended cable-driven parallel robot COGIRO. Identification equations are derived from Newton-Euler equations of motion of an arbitrary point fixed to a rigid-body. Laboratory experiments for identification of the inertial parameters are then introduced and results are presented. Within the limitations of the sensors and data acquisition methods, reasonable results have been obtained, thereby validating the procedure for suspended cabledriven parallel robots."
+featured: true
+publication: "*Robotics and Automation: Proceedings of the 2017 IEEE International Conference on*"
+doi: "10.1109/ICRA.2017.7989723"
+---
+
