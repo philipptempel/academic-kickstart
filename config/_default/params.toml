@@ -90,7 +90,7 @@ address = {street = "Mekelweg 2", city = "Delft", region = "Zuid-Holland", postc
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.0008998", longitude = "4.3697845"}
+coordinates = {latitude = "52.000015", longitude = "4.371386"}
 
 # Directions for visitors to locate you.
 directions = ""
