@@ -16,7 +16,7 @@ role: Postdoctoral Research Associate
 organizations:
 - name: Laboratory of Digital Sciences of Nantes LS2N
   url: https://www.ls2n.fr/?lang=en
-- name: Precision and Microsystems Engineering PME, Delft University of Technology
+- name: Delft University of Technology
   url: https://pme.tudelft.nl
 
 # Short bio (displayed in user profile at end of posts)
