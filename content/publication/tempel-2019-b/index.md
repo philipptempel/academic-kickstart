@@ -1,12 +1,49 @@
 ---
-title: "Experimental Identification of Stress-Strain Material Models of UHMWPE Fiber Cables for Improving Cable Tension Control Strategies"
-date: 2019-01-01
-publishDate: 2020-04-04T06:10:45.034692Z
-authors: ["Philipp Tempel", "Felix Trautwein", "Andreas Pott"]
-publication_types: ["6"]
-abstract: "Ultra-high-molecular-weight polyethylene fibers like Dyneema or Spectra are employed in a vast variety of cable-driven parallel robots. The stress-strain dynamics of such cables are highly non-linear with time-varying mechanical parameters, resulting in involved modeling and control of robot dynamics. To improve controllability of cable robots, the cable stress-strain dynamics need to be known and explicitly considered feedforward or closed-loop control. A model can only be deemed suitable, if its inherent dynamics is confirmed through experiments and if it allows for reasonable parameter estimation. We present results of experimental identification of stress-strain dynamics of UHMWPE cables made of Dyneema in different stages of operation. Due to the internal material mechanics, four stages can be identified: the tensing and relaxing transition as well as plateaus coming from either. The implications of verified and parametrized stress-strain models for cable robot tension control strategies is expedited."
-featured: true
-publication: "*Advances in Robot Kinematics 2018*"
-doi: "10.1007/978-3-319-93188-3_30"
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: Modeling of Elastic-Flexible Cables with Time-Varying Length for Cable-Driven
+  Parallel Robots
+subtitle: ''
+summary: ''
+authors:
+- Philipp Tempel
+- Dongwon Lee
+- Felix Trautwein
+- Andreas Pott
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2020-09-24T15:46:57+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-24T13:46:57.486171Z'
+publication_types:
+- 1
+abstract: Cable-driven parallel robots use elastic-flexible cables for operation due
+  to their advantages over rigid-link joints. In state-of-the-art modeling of cable-driven
+  parallel robots, cables are mostly kinematics based and contain no explicit consideration
+  of their dynamics. Experimental observations show these simplifications do not hold
+  true in various scenarios where the cable-driven parallel robot becomes uncontrollable.
+  We revisit the kinematics-based cable models and present a cable model empowering
+  Cosserat rod theory for which the deflected configuration is formulated through
+  higher-order Bézier curves. Numerical time integration of the dynamics is performed
+  using an energy-momentum conserving integration scheme. The applicability of our
+  cable model is exemplified on a planar cable robot with 3 degrees of freedom.
+publication: '*Cable-Driven Parallel Robots (CableCon 2019): Proceedings of the Fourth
+  International Conference on*'
+---
