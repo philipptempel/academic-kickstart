@@ -31,7 +31,7 @@ subtitle = ""
     author = ""
     exclude_featured = false
     exclude_past = false
-    exclude_future = false
+    exclude_future = true
     
 [design]
   # Toggle between the various page layout types.
@@ -55,7 +55,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

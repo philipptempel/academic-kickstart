@@ -1,11 +1,36 @@
 ---
-title: "Modeling of Cable-Driven Parallel Robots with Hefty Cables: Research Visit Report"
-date: 2016-01-01
-publishDate: 2020-04-04T06:10:45.029526Z
-authors: ["Philipp Tempel"]
-publication_types: ["0"]
-abstract: ""
-featured: false
-publication: ""
----
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+title: 'Modeling of Cable-Driven Parallel Robots with Hefty Cables: Research Visit
+  Report'
+subtitle: ''
+summary: ''
+authors:
+- Philipp Tempel
+tags: []
+categories: []
+date: '2016-01-01'
+lastmod: 2020-09-24T15:46:56+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-09-24T13:46:56.388422Z'
+publication_types:
+- '0'
+abstract: ''
+publication: ''
+---
