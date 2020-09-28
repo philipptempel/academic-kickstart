@@ -18,16 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Postdoctoral Research Associate"
-  company = "Lab of Digital Sciences of Nantes LS2N"
-  company_url = "https://www.ls2n.fr/?lang=en"
-  location = "Nantes, France"
-  date_start = "2020-11-01"
-  date_end = ""
-  description = """
-  I am researching new methods for ecodesign of continuum robotics.
-  """
+# [[experience]]
+#   title = "Postdoctoral Research Associate"
+#   company = "Lab of Digital Sciences of Nantes LS2N"
+#   company_url = "https://www.ls2n.fr/?lang=en"
+#   location = "Nantes, France"
+#   date_start = "2020-11-01"
+#   date_end = ""
+#   description = """
+#   I am researching new methods for ecodesign of continuum robotics.
+#   """
 
 [[experience]]
   title = "Postdoctoral Research Associate"
