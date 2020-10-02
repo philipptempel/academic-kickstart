@@ -1,0 +1,3 @@
+[submodule "themes/resumicv"]
+	path = themes/resumicv
+	url = https://gitlab.com/philipptempel/hugo-theme-resumicv.git
