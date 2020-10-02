@@ -1,0 +1,53 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Table of Contents
+
+- id: on_this_page
+  translation: Contents
+
+- id: back_to_top
+  translation: Back to top
+
+
+# General
+
+- id: related
+  translation: Related
+
+- id: minute_read
+  translation: min read
+
+- id: previous
+  translation: Previous
+
+- id: next
+  translation: Next
+
+- id: figure
+  translation: "Figure %d:"
+
+- id: edit_page
+  translation: Edit this page
+
+# CV
+- id: range_present
+  translation: Present
+
+- id: course_fall
+  translation: Fall
+
+- id: course_spring
+  translation: Spring
+
+- id: course_style_lab
+  translation: Lab Session
+
+- id: course_style_tutorial
+  translation: Tutorial
+
+- id: course_style_lecture
+  translation: Lecture

@@ -1,0 +1,8 @@
+navbarStyle: horizontal
+#navbarStyle: vertical
+#navbarSize: base
+navbarSize: small
+navbarColor: light
+#navbarColor: dark
+#navbarLocation: left
+navbarLocation: right

@@ -1,0 +1,25 @@
+navbar:
+  - name: Home
+    identifier: home
+    url: ''
+    weight: 1
+  - name: Projects
+    identifier: projects
+    url: '#projects'
+    weight: 10
+  - name: Publications
+    identifier: publications
+    url: '#publications'
+    weight: 20
+  - name: Publications
+    identifier: publications
+    url: '#publications'
+    weight: 20
+  - name: Contact
+    identifier: contact
+    url: '#contact'
+    weight: 90
+  - name: CV
+    identifier: cv
+    url: 'files/cv.pdf'
+    weight: 99
