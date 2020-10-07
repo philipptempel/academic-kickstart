@@ -6,7 +6,7 @@ title: Modelling of Kinematics and Dynamics of the IPAnema 3 Cable Robot for Sim
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 - Philipp Miermeister
 - Armin Lechler
 - Andreas Pott
@@ -30,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:55.535072Z'
 publication_types:
 - 2

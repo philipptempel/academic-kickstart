@@ -10,7 +10,7 @@ authors:
 - Ziran Tao
 - Annika Junger
 - Christoph Joppek
-- Philipp Tempel
+- philipptempel
 - Kim Husemann
 - Florian Singer
 - Philipp Latzin

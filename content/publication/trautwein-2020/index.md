@@ -5,12 +5,13 @@ title: 'COPacabana: Ein modularer paralleler Seilroboter'
 subtitle: ''
 summary: ''
 authors:
-- Felix Trautwein
-- Thomas Reichenbach
-- Philipp Tempel
-- Andreas Pott
-- Alexander Verl
-tags: []
+  - Felix Trautwein
+  - Thomas Reichenbach
+  - philipptempel
+  - Andreas Pott
+  - Alexander Verl
+tags:
+  - cable robot
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-24T15:46:58+02:00
@@ -30,10 +31,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - caroctrlconf
 publishDate: '2020-09-24T13:46:57.960947Z'
 publication_types:
-- 1
+  - 1
 abstract: Due to their use of modular components, cable-driven parallel robots are
   prime candidates for use as reconfigurable robotic manipulators. Reconfiguration
   comprises both the change of the geometry as well as topological changes such as

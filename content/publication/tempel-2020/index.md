@@ -6,10 +6,11 @@ title: 'Design and Analysis of Cable-Driven Parallel Robot CaRISA: a Cable Robot
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
-- Matthias Alfeld
-- Volkert van der Wijk
-tags: []
+  - philipptempel
+  - Matthias Alfeld
+  - Volkert van der Wijk
+tags:
+  - cable robot
 categories: []
 date: '2021-01-01'
 lastmod: 2020-09-24T15:46:57+02:00
@@ -29,10 +30,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - carisa
 publishDate: '2020-09-24T13:46:57.722336Z'
 publication_types:
-- 1
+  - 1
 abstract: Cultural heritage science envisages understanding of methods and techniques
   used by past painters and sculptors in creating their masterpieces of art. Existing
   devices for in situ and non-destructive, automated scanning are large and bulky

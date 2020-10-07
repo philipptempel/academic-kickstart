@@ -6,7 +6,7 @@ title: Kinematics and Dynamics Modeling for Real-Time Simulation of the Cable-Dr
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 - Philipp Miermeister
 - Andreas Pott
 tags: []
@@ -29,7 +29,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:55.420261Z'
 publication_types:
 - 1

@@ -6,7 +6,7 @@ title: Dynamics of Cable-Driven Parallel Robots with Elastic and Flexible, Time-
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 tags: []
 categories: []
 date: '2019-01-01'
@@ -27,7 +27,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:57.365272Z'
 publication_types:
 - 5

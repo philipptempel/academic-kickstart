@@ -6,14 +6,14 @@ title: Smart Centering for Rotation-Symmetric Parts in Multi-Stage Production Sy
 subtitle: ''
 summary: ''
 authors:
-- Colin Reiff
-- Florian Eger
-- Philipp Tempel
-- Maria Chiara Magnanini
-- Jon Ander Ortiz
-- Marcello Colledani
-- Alexander Verl
-- Iñigo Sarries
+  - Colin Reiff
+  - Florian Eger
+  - philipptempel
+  - Maria Chiara Magnanini
+  - Jon Ander Ortiz
+  - Marcello Colledani
+  - Alexander Verl
+  - Iñigo Sarries
 tags: []
 categories: []
 date: '2019-01-01'
@@ -34,10 +34,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - forzdm
 publishDate: '2020-09-24T13:46:54.556791Z'
 publication_types:
-- 2
+  - 2
 abstract: During manufacturing, geometrical deviations occur, e.g. due to heating
   processes. In multi-stage production systems, these errors propagate and lead to
   expensive rework or, even, to unusable products. In this paper, a method for smart

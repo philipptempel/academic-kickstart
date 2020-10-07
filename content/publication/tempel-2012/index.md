@@ -6,7 +6,7 @@ title: Design of Decentralized Control Unit for an Optical Mirror Using Loop Tra
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 tags: []
 categories: []
 date: '2012-01-01'
@@ -32,5 +32,5 @@ publishDate: '2020-09-24T13:46:54.671244Z'
 publication_types:
 - 7
 abstract: ''
-publication: '*Institute for System Dynamics*'
+publication: '*Institute for System Dynamics ISYS University of Stuttgart*'
 ---

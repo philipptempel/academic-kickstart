@@ -6,11 +6,12 @@ title: On Kinetostatics and Workspace Analysis of Multi-Platform Cable-Driven Pa
 subtitle: ''
 summary: ''
 authors:
-- Thomas Reichenbach
-- Philipp Tempel
-- Alexander Verl
-- Andreas Pott
-tags: []
+  - Thomas Reichenbach
+  - philipptempel
+  - Alexander Verl
+  - Andreas Pott
+tags:
+  - cable robot
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-24T15:46:54+02:00
@@ -30,7 +31,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - endless-z
 publishDate: '2020-09-24T13:46:54.443785Z'
 publication_types:
 - 1

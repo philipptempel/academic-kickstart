@@ -5,12 +5,12 @@ title: Part Variation Modeling in Multi-Stage Production Systems for Zero-Defect
 subtitle: ''
 summary: ''
 authors:
-- Florian Eger
-- Philipp Tempel
-- Maria Chiara Magnanini
-- Colin Reiff
-- Marcello Colledani
-- Alexander Verl
+  - Florian Eger
+  - philipptempel
+  - Maria Chiara Magnanini
+  - Colin Reiff
+  - Marcello Colledani
+  - Alexander Verl
 tags: []
 categories: []
 date: '2019-01-01'
@@ -31,10 +31,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - forzdm
 publishDate: '2020-09-24T13:46:53.857042Z'
 publication_types:
-- 1
+  - 1
 abstract: Multi-stage production systems concede for low error and failure margins
   within every single machining and assembly step to not degrade product quality.
   Especially during multi-stage production of rotating parts, minor defects during

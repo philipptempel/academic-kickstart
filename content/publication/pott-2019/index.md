@@ -6,9 +6,10 @@ title: A Unified Approach to Forward Kinematics for Cable-Driven Parallel Robots
 subtitle: ''
 summary: ''
 authors:
-- Andreas Pott
-- Philipp Tempel
-tags: []
+  - Andreas Pott
+  - philipptempel
+tags:
+  - cable robot
 categories: []
 date: '2019-01-01'
 lastmod: 2020-09-24T15:46:54+02:00
@@ -28,7 +29,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:54.100013Z'
 publication_types:
 - 1

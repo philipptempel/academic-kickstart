@@ -6,7 +6,7 @@ title: Modeling of Elastic-Flexible Cables with Time-Varying Length for Cable-Dr
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 - Dongwon Lee
 - Felix Trautwein
 - Andreas Pott
@@ -30,7 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:57.486171Z'
 publication_types:
 - 1

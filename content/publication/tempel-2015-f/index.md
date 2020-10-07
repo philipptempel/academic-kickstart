@@ -6,7 +6,7 @@ title: 'Stuttgarter Simulationsforscher bei EXPO 2015 in Mailand: Simulation Tec
 subtitle: ''
 summary: ''
 authors:
-- Philipp Tempel
+- philipptempel
 - Andreas Pott
 tags: []
 categories: []
@@ -28,7 +28,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects:
+  - simtech-pn37
 publishDate: '2020-09-24T13:46:55.650719Z'
 publication_types:
 - '0'
