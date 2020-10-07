@@ -5,10 +5,10 @@ title: "Cable Robots for the German Pavilion at World Expo 2015 in Milan, Italy"
 subtitle: "Expo 2015"
 summary: ""
 authors:
-    - philipptempel
-    - Andreas Pott
+  - philipptempel
+  - Andreas Pott
 tags:
-    - cable robot
+  - cable robot
 categories: []
 date: 2020-10-07T12:46:38+02:00
 

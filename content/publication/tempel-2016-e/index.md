@@ -6,7 +6,7 @@ title: 'Modeling of Cable-Driven Parallel Robots with Hefty Cables: Research Vis
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
+  - philipptempel
 tags: []
 categories: []
 date: '2016-01-01'
@@ -31,7 +31,7 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:56.388422Z'
 publication_types:
-- '0'
+  - '0'
 abstract: ''
 publication: ''
 ---

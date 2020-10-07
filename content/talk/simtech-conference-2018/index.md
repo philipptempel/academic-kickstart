@@ -14,13 +14,13 @@ address:
   country: ""
 summary: ""
 abstract: >
-    Cable-driven parallel robots make use of elastic cables for force and motion transmission from the driving winches to the mobile platform.
-    The system is inherently susceptible to transversal cable vibration stemming from jerky motion of the platform as well as cable winding and guiding.
-    To improve precision and stiffness of cable robots, the cable motion must explicitly be considered in simulation and control.
-    In this talk, we present different approaches to modeling the cable shape based on the static model first derived by Irvine.
-    Two main approaches will be presented, one based on discretization of the cable into segments yielding high dimensional systems, the other being based on Rayleigh-Ritz modal superposition yielding lower dimensional systems.
-    Additionally, the static and dynamic cable force transmission is evaluated against existing models such as four-element or Flory models.
-    Furthermore, overall model validity and applicability to improving accuracy and stiffness is shown.
+  Cable-driven parallel robots make use of elastic cables for force and motion transmission from the driving winches to the mobile platform.
+  The system is inherently susceptible to transversal cable vibration stemming from jerky motion of the platform as well as cable winding and guiding.
+  To improve precision and stiffness of cable robots, the cable motion must explicitly be considered in simulation and control.
+  In this talk, we present different approaches to modeling the cable shape based on the static model first derived by Irvine.
+  Two main approaches will be presented, one based on discretization of the cable into segments yielding high dimensional systems, the other being based on Rayleigh-Ritz modal superposition yielding lower dimensional systems.
+  Additionally, the static and dynamic cable force transmission is evaluated against existing models such as four-element or Flory models.
+  Furthermore, overall model validity and applicability to improving accuracy and stiffness is shown.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -32,11 +32,11 @@ all_day: false
 publishDate: 2020-09-24T14:28:05+02:00
 
 authors:
-    - philipptempel
+  - philipptempel
 tags:
-    - cable robot
-    - kinematics
-    - dynamics
+  - cable robot
+  - kinematics
+  - dynamics
 
 # Is this a featured talk? (true/false)
 featured: false

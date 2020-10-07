@@ -36,7 +36,8 @@ projects:
 publishDate: '2020-09-24T13:46:57.960947Z'
 publication_types:
   - 1
-abstract: Due to their use of modular components, cable-driven parallel robots are
+abstract: >
+  Due to their use of modular components, cable-driven parallel robots are
   prime candidates for use as reconfigurable robotic manipulators. Reconfiguration
   comprises both the change of the geometry as well as topological changes such as
   adding or removing axes. To validate practicability of methods for reconfiguration,

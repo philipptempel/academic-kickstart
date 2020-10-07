@@ -39,7 +39,8 @@ projects:
 publishDate: '2020-09-24T13:46:54.556791Z'
 publication_types:
   - 2
-abstract: During manufacturing, geometrical deviations occur, e.g. due to heating
+abstract: >
+  During manufacturing, geometrical deviations occur, e.g. due to heating
   processes. In multi-stage production systems, these errors propagate and lead to
   expensive rework or, even, to unusable products. In this paper, a method for smart
   centering of rotation-symmetric parts is introduced. The method is used in the scope

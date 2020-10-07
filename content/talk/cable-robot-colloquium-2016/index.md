@@ -24,11 +24,11 @@ all_day: false
 publishDate: 2020-09-24T15:08:16+02:00
 
 authors:
-    - philipptempel
+  - philipptempel
 tags:
-    - cable robot
-    - kinematics
-    - dynamics
+  - cable robot
+  - kinematics
+  - dynamics
 
 # Is this a featured talk? (true/false)
 featured: false

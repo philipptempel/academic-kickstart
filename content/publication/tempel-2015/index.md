@@ -6,7 +6,7 @@ title: 'Improved Modeling of Cables for Kinematics and Dynamics of Light-Weight 
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
+  - philipptempel
 tags: []
 categories: []
 date: '2015-01-01'
@@ -31,7 +31,7 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.069992Z'
 publication_types:
-- '0'
+  - '0'
 abstract: ''
 publication: ''
 ---

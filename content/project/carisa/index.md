@@ -5,11 +5,11 @@ title: "Cable Robot for the Inspection and Scanning of Artwork"
 subtitle: "CaRISA"
 summary: ""
 authors:
-    - philipptempel
-    - Matthias Alfeld
-    - Volkert van der Wijk
+  - philipptempel
+  - Matthias Alfeld
+  - Volkert van der Wijk
 tags:
-    - cable robot
+  - cable robot
 categories: []
 date: 2020-10-07T12:46:34+02:00
 

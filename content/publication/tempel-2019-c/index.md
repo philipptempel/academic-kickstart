@@ -6,9 +6,9 @@ title: Experimental Identification of Stress-Strain Material Models of UHMWPE Fi
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Felix Trautwein
-- Andreas Pott
+  - philipptempel
+  - Felix Trautwein
+  - Andreas Pott
 tags: []
 categories: []
 date: '2019-01-01'
@@ -33,8 +33,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:57.602821Z'
 publication_types:
-- 1
-abstract: 'Ultra-high-molecular-weight polyethylene fibers like Dyneema or Spectra
+  - 1
+abstract: >
+  Ultra-high-molecular-weight polyethylene fibers like Dyneema or Spectra
   are employed in a vast variety of cable-driven parallel robots. The stress-strain
   dynamics of such cables are highly non-linear with time-varying mechanical parameters,
   resulting in involved modeling and control of robot dynamics. To improve controllability
@@ -46,7 +47,7 @@ abstract: 'Ultra-high-molecular-weight polyethylene fibers like Dyneema or Spect
   to the internal material mechanics, four stages can be identified: the tensing and
   relaxing transition as well as plateaus coming from either. The implications of
   verified and parametrized stress-strain models for cable robot tension control strategies
-  is expedited.'
+  is expedited.
 publication: '*Advances in Robot Kinematics (ARK 2018): Proceedings of the 2018 16th
   International Symposium on*'
 ---

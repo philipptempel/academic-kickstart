@@ -5,7 +5,7 @@ title: 'Cable-Driven Parallel Robots: Expo 2015 - Forth and Back Again'
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
+  - philipptempel
 tags: []
 categories: []
 date: '2016-01-01'
@@ -30,7 +30,7 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.903850Z'
 publication_types:
-- 0
+  - 0
 abstract: ''
 publication: ''
 ---

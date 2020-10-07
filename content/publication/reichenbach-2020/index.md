@@ -35,8 +35,9 @@ projects:
   - endless-z
 publishDate: '2020-09-24T13:46:54.443785Z'
 publication_types:
-- 1
-abstract: Cable-driven parallel robots are a special kind of parallel mechanism which
+  - 1
+abstract: >
+  Cable-driven parallel robots are a special kind of parallel mechanism which
   use cables instead of rigid prismatic actuators to control a single platform. This
   paper presents a modeling approach to replace the single platform by multiple platforms.
   With this approach, it is possible to perform unlimited rotation with cable robots

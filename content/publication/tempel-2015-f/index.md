@@ -6,8 +6,8 @@ title: 'Stuttgarter Simulationsforscher bei EXPO 2015 in Mailand: Simulation Tec
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Andreas Pott
+  - philipptempel
+  - Andreas Pott
 tags: []
 categories: []
 date: '2015-01-01'
@@ -32,8 +32,8 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.650719Z'
 publication_types:
-- '0'
-abstract: Research in Stuttgart made accessible and comprehensible to the world at
-  the universal exposition Expo 2015 in Milan.
+  - '0'
+abstract: >
+  Research in Stuttgart made accessible and comprehensible to the world at the universal exposition Expo 2015 in Milan.
 publication: ''
 ---

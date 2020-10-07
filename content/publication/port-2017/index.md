@@ -6,17 +6,17 @@ title: A Simple Method to Reconstruct the Molar Mass Signal of Respiratory Gas t
 subtitle: ''
 summary: ''
 authors:
-- Johannes Port
-- Ziran Tao
-- Annika Junger
-- Christoph Joppek
-- philipptempel
-- Kim Husemann
-- Florian Singer
-- Philipp Latzin
-- Sophie Yammine
-- Joachim H. Nagel
-- Martin Kohlhäufl
+  - Johannes Port
+  - Ziran Tao
+  - Annika Junger
+  - Christoph Joppek
+  - philipptempel
+  - Kim Husemann
+  - Florian Singer
+  - Philipp Latzin
+  - Sophie Yammine
+  - Joachim H. Nagel
+  - Martin Kohlhäufl
 tags: []
 categories: []
 date: '2017-01-01'
@@ -40,8 +40,9 @@ image:
 projects: []
 publishDate: '2020-09-24T13:46:53.983554Z'
 publication_types:
-- 2
-abstract: For the assessment of small airway diseases, a noninvasive double-tracer
+  - 2
+abstract: >
+  For the assessment of small airway diseases, a noninvasive double-tracer
   gas single-breath washout (DTG-SBW) with sulfur hexafluoride (SF6) and helium (He)
   as tracer components has been proposed. It is assumed that small airway diseases
   may produce typical ventilation inhomogeneities which can be detected within one

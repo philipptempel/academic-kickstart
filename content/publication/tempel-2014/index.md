@@ -6,7 +6,7 @@ title: 'Improved Modeling of Cables for Kinematics and Dynamics of Light-Weight 
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
+  - philipptempel
 tags: []
 categories: []
 date: '2014-01-01'
@@ -31,8 +31,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:54.813206Z'
 publication_types:
-- '0'
-abstract: Cables, such as these used to drive a cable-driven parallel robot's platform,
+  - '0'
+abstract: >
+  Cables, such as these used to drive a cable-driven parallel robot's platform,
   are therein generally considered massless, straight lines between two points neglecting
   major dynamics. This assumption holds true for some cable robots, however for others,
   the effects on the platform's behavior due to cables having mass cannot be neglected.

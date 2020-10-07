@@ -35,7 +35,8 @@ projects:
 publishDate: '2020-09-24T13:46:57.722336Z'
 publication_types:
   - 1
-abstract: Cultural heritage science envisages understanding of methods and techniques
+abstract: >
+  Cultural heritage science envisages understanding of methods and techniques
   used by past painters and sculptors in creating their masterpieces of art. Existing
   devices for in situ and non-destructive, automated scanning are large and bulky
   and built around the assumption of a perfectly planar surface. We are developing

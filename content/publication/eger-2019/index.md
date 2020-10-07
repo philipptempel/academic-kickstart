@@ -36,7 +36,8 @@ projects:
 publishDate: '2020-09-24T13:46:53.857042Z'
 publication_types:
   - 1
-abstract: Multi-stage production systems concede for low error and failure margins
+abstract: >
+  Multi-stage production systems concede for low error and failure margins
   within every single machining and assembly step to not degrade product quality.
   Especially during multi-stage production of rotating parts, minor defects during
   a single step can corrupt a workpiece beyond repair. Since multistage production

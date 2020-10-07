@@ -5,9 +5,9 @@ title: On the Dynamics and Emergency Stop Behavior of Cable-Driven Parallel Robo
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Alexander Verl
-- Andreas Pott
+  - philipptempel
+  - Alexander Verl
+  - Andreas Pott
 tags: []
 categories: []
 date: '2016-01-01'
@@ -32,8 +32,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:56.618407Z'
 publication_types:
-- 1
-abstract: High dynamics of cable-driven parallel robots are beneficial to their use,
+  - 1
+abstract: >
+  High dynamics of cable-driven parallel robots are beneficial to their use,
   however, the behavior of such robots during extreme maneuvers is yet to be investigated.
   In this paper, a simulation model is presented and validated in order to assess
   the emergency stop behavior of cable robots by simulation. Simulation results are

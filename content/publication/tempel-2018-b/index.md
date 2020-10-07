@@ -6,7 +6,7 @@ title: The Dynamics of Cable-Driven Parallel Robots with Elastic and Flexible, T
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
+  - philipptempel
 tags: []
 categories: []
 date: '2018-01-01'
@@ -31,7 +31,7 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:57.134699Z'
 publication_types:
-- 0
+  - 0
 abstract: ''
 publication: ''
 ---

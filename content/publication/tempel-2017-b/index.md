@@ -6,11 +6,11 @@ title: 'Estimating Inertial Parameters of Suspended Cable-Driven Parallel Robots
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Pierre-Elie Hervé
-- Olivier Tempier
-- Marc Gouttefarde
-- Andreas Pott
+  - philipptempel
+  - Pierre-Elie Hervé
+  - Olivier Tempier
+  - Marc Gouttefarde
+  - Andreas Pott
 tags: []
 categories: []
 date: '2017-01-01'
@@ -35,8 +35,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:56.887761Z'
 publication_types:
-- 1
-abstract: Model based open-loop and closed-loop control systems make use of the system's
+  - 1
+abstract: >
+  Model based open-loop and closed-loop control systems make use of the system's
   inertial parameters. Unfortunately, not all of these values can be determined analytically
   nor can they be obtained from simple measurements. Established experiments for inertial
   parameters estimation have been applied to serial and parallel rigid-link manipulators,
@@ -45,11 +46,11 @@ abstract: Model based open-loop and closed-loop control systems make use of the 
   the inertial parameters making it important to obtain such quantities through experiments.
   In this work, we assess the topic of inertial parameter identification of a parallel
   flexible-link manipulator exemplified by the suspended cable-driven parallel robot
-  COGIRO. Identification equations are derived from Newton-Euler equations of motion
+  CoGiRo. Identification equations are derived from Newton-Euler equations of motion
   of an arbitrary point fixed to a rigid-body. Laboratory experiments for identification
   of the inertial parameters are then introduced and results are presented. Within
   the limitations of the sensors and data acquisition methods, reasonable results
-  have been obtained, thereby validating the procedure for suspended cabledriven parallel
+  have been obtained, thereby validating the procedure for suspended cable-driven parallel
   robots.
 publication: '*Robotics and Automation (ICRA 2017): 2017 IEEE/RAS International Conference
   on*'

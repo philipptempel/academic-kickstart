@@ -35,8 +35,9 @@ projects:
 publishDate: '2020-09-24T13:46:57.843455Z'
 publication_types:
   - 1
-abstract: In this paper, an approach to capture and visualize the impact of a geometrical
-  adjustments of a cabledriven parallel robot is presented. This method combines the
+abstract: >
+  In this paper, an approach to capture and visualize the impact of a geometrical
+  adjustments of a cable-driven parallel robot is presented. This method combines the
   precision of an analytic description with the efficiency of numeric methods. The
   translational workspace of the robot, corresponding to a set of geometrical parameters,
   is determined by a piecewise assembly of boundary segments. The intersections of

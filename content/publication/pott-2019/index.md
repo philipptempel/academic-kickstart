@@ -33,8 +33,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:54.100013Z'
 publication_types:
-- 1
-abstract: This paper deals with a unified approach to forward kinematics for both
+  - 1
+abstract: >
+  This paper deals with a unified approach to forward kinematics for both
   over-constrained and under-constrained cable robots. Moreover, little assumptions
   on the cable model are required. This makes the proposed method applicable to a
   variety of currently discussed cable models including the standard model, an elastic

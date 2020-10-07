@@ -36,7 +36,8 @@ projects:
 publishDate: '2020-09-24T13:46:54.211573Z'
 publication_types:
   - 1
-abstract: Additive manufacturing has attracted a lot of attention in the recent years
+abstract: >
+  Additive manufacturing has attracted a lot of attention in the recent years
   as it allows to effectively manufacture objects with complex shape in batch size
   one. Extrusion-based additive processes employ manipulators, such as robots, to
   move the printing head along a predefined path. This paper deals with the design,

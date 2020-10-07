@@ -6,10 +6,10 @@ title: Design and Programming for Cable-Driven Parallel Robots in the German Pav
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Fabian Schnelle
-- Andreas Pott
-- Peter Eberhard
+  - philipptempel
+  - Fabian Schnelle
+  - Andreas Pott
+  - Peter Eberhard
 tags: []
 categories: []
 date: '2015-01-01'
@@ -34,8 +34,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.778015Z'
 publication_types:
-- 2
-abstract: In the German Pavilion at the EXPO 2015, two large cable-driven parallel
+  - 2
+abstract: >
+  In the German Pavilion at the EXPO 2015, two large cable-driven parallel
   robots are flying over the heads of the visitors representing two bees flying over
   Germany and displaying everyday life in Germany. Each robot consists of a mobile
   platform and eight cables suspended by winches and follows a desired trajectory,

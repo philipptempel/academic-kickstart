@@ -6,9 +6,9 @@ title: Kinematics and Dynamics Modeling for Real-Time Simulation of the Cable-Dr
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Philipp Miermeister
-- Andreas Pott
+  - philipptempel
+  - Philipp Miermeister
+  - Andreas Pott
 tags: []
 categories: []
 date: '2015-01-01'
@@ -33,9 +33,10 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.420261Z'
 publication_types:
-- 1
-abstract: In this paper, the kinematics and dynamics modeling of the mechatronic model
-  for a 6 DOF cabledriven parallel robot are covered and a real-time capable simulation
+  - 1
+abstract: >
+  In this paper, the kinematics and dynamics modeling of the mechatronic model
+  for a 6 DOF cable-driven parallel robot are covered and a real-time capable simulation
   model for such robots is derived. The governing equations of motion of the mobile
   platform are acquired using Newton-Euler formalism, furthermore, the pulley kinematics
   of the winches and a spring-damper based cable model are introduced. Once the equations

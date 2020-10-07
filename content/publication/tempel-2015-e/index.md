@@ -6,10 +6,10 @@ title: Modelling of Kinematics and Dynamics of the IPAnema 3 Cable Robot for Sim
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Philipp Miermeister
-- Armin Lechler
-- Andreas Pott
+  - philipptempel
+  - Philipp Miermeister
+  - Armin Lechler
+  - Andreas Pott
 tags: []
 categories: []
 date: '2015-01-01'
@@ -34,11 +34,12 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:55.535072Z'
 publication_types:
-- 2
-abstract: This paper covers the kinematics and dynamics modelling ofthe mechatronic
+  - 2
+abstract: >
+  This paper covers the kinematics and dynamics modelling of the mechatronic
   model for a 6 DOF cable-driven parallel robot and derives a real-time capable simulation
   model for such robots. The governing equations of motion for the mobile platform
-  are derived using Newton-Euler formalism, furthermore, the pulley kinematics ofthe
+  are derived using Newton-Euler formalism, furthermore, the pulley kinematics of the
   winches and a linear spring-damper-based cable model.Once the equations of motion
   are derived, closed-form force distribution is implemented and simulation results
   of the real-time capable model for the cable-driven parallel robot IPAnema3 are

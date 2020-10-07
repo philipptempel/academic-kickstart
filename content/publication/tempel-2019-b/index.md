@@ -6,10 +6,10 @@ title: Modeling of Elastic-Flexible Cables with Time-Varying Length for Cable-Dr
 subtitle: ''
 summary: ''
 authors:
-- philipptempel
-- Dongwon Lee
-- Felix Trautwein
-- Andreas Pott
+  - philipptempel
+  - Dongwon Lee
+  - Felix Trautwein
+  - Andreas Pott
 tags: []
 categories: []
 date: '2019-01-01'
@@ -34,8 +34,9 @@ projects:
   - simtech-pn37
 publishDate: '2020-09-24T13:46:57.486171Z'
 publication_types:
-- 1
-abstract: Cable-driven parallel robots use elastic-flexible cables for operation due
+  - 1
+abstract: >
+  Cable-driven parallel robots use elastic-flexible cables for operation due
   to their advantages over rigid-link joints. In state-of-the-art modeling of cable-driven
   parallel robots, cables are mostly kinematics based and contain no explicit consideration
   of their dynamics. Experimental observations show these simplifications do not hold

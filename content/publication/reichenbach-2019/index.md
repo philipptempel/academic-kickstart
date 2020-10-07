@@ -35,8 +35,9 @@ projects:
   - endless-z
 publishDate: '2020-09-24T13:46:54.329626Z'
 publication_types:
-- 1
-abstract: Comparing cable-driven parallel robots (short CDPRs or cable robots) with
+  - 1
+abstract: >
+  Comparing cable-driven parallel robots (short CDPRs or cable robots) with
   conventional parallel mechanisms, CDPRs have advantages in terms of flexibility,
   dynamics, and workspace size. In general, the rotational capabilities of parallel
   mechanisms without any additional actuator system are limited. This paper presents
