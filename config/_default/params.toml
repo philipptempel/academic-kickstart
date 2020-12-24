@@ -89,22 +89,22 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "academia@philipptempel.me"
-phone = "+31 (0) 15 278 32 04"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Mekelweg 2", city = "Delft", region = "Zuid-Holland", postcode = "2628 CD", country = "The Netherlands", country_code = "NL"}
+address = {street = "1, rue de la Noë", city = "Nantes", region = "Pays de la Loire", postcode = "44321 NANTES Cedex 3", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.000015", longitude = "4.371386"}
+coordinates = {latitude = "47.25030033760295", longitude = "-1.5469636957857396"}
 
 # Directions for visitors to locate you.
 directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Thursday 10:00am to 12:00pm"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

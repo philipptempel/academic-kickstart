@@ -14,6 +14,8 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
+  - name: Lab of Digital Sciences of Nantes LS2N
+    url: "https://ls2n.fr"
   - name: Delft University of Technology
     url: "http://pme.tudelft.nl"
 
