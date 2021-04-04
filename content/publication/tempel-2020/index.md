@@ -12,7 +12,7 @@ authors:
 tags:
   - cable robot
 categories: []
-date: '2021-01-01'
+date: '2020-01-01'
 lastmod: 2020-09-24T15:46:57+02:00
 featured: false
 draft: false
