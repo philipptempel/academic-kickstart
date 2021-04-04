@@ -4,7 +4,7 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:0.82.0
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 before_script:
-  - apk add --update --no-cache git
+  - apk add --update --no-cache git go
 
 test:
   script:
