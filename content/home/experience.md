@@ -25,7 +25,7 @@ experience:
     location: "Nantes, France"
     date_start: "2020-11-01"
     date_end: ""
-    description: "I am researching new methods for ecodesign of continuum robotics."
+    description: "I am researching new methods for the design of continuum/flexible parallel robots."
   - title: "Postdoctoral Research Associate"
     company: "Precision and Microsystems Engineering, Faculty 3mE, Delft University of Technology"
     company_url: "http://pme.tudelft.nl"
