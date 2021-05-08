@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1, rue de la Noë", city = "Nantes", region = "Pays de la Loire", postcode = "44321 NANTES Cedex 3", country = "France", country_code = "FR"}
+address = {street = "1, Rue de la Noë, Batiment S, étage 4, bureau 402", city = "Nantes", region = "Pays de la Loire", postcode = "44321 NANTES Cedex 3", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
