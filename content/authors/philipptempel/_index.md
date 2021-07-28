@@ -53,9 +53,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-2424-2007
-  - icon: mendeley
+  - icon: researcherid
     icon_pack: ai
-    link: https://mendeley.com/profiles/philipp-tempel/
+    link: https://researcherid.com/rid/AAD-7990-2019
   - icon: academia
     icon_pack: ai
     link: https://tudelft.academia.edu/PhilippTempel
